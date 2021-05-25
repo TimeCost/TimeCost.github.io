@@ -24,8 +24,8 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
- baidu:
-     id: 1c24a71a37dd2395e5d7c9257ee3b0ea
+ baidu-analysis：1c24a71a37dd2395e5d7c9257ee3b0ea
+     #id: 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
